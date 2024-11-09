@@ -537,6 +537,7 @@
 ##[href="https://hdrezka.me/films/adventures/9125-volshebnaya-lampa-aladdina-1967.html"]
 ##[href="https://hdrezka.me/films/adventures/941-strana-horoshih-detochek-2013.html"]
 ##[href="https://hdrezka.me/films/adventures/951-tri-mushketera-2013.html"]
+##[href="https://hdrezka.me/films/arthouse/26113-tetragrammaton-2017.html"]
 ##[href="https://hdrezka.me/films/arthouse/990-nebesnye-zheny-lugovyh-mari-2012.html"]
 ##[href="https://hdrezka.me/films/biographical/19101-poltory-komnaty-ili-sentimentalnoe-puteshestvie-na-rodinu-2008.html"]
 ##[href="https://hdrezka.me/films/biographical/28271-leto-2018.html"]
