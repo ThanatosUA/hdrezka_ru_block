@@ -1,3 +1,5 @@
+! uBlock Origin blocklist for https://hdrezka.me
+
 ##[href="https://hdrezka.me/films/action/10101-ohota-na-piranyu-2006.html"]
 ##[href="https://hdrezka.me/films/action/10647-voennyy-korrespondent-2014.html"]
 ##[href="https://hdrezka.me/films/action/11036-9-rota-2005.html"]
