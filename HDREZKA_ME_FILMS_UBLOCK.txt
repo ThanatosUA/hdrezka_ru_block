@@ -6387,4 +6387,4 @@ rezka-ua.tv###wrapper
 rezka.ag###main
 ||hdrezka.me/templates/hdrezka/images/icon-report.png$image
 ||sambray.org^
-||stream.voidboost.cc^$xhr
+
