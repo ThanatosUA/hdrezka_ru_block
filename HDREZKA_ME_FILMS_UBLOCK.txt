@@ -6404,22 +6404,8 @@ hdrezka.me##[href="https://hdrezka.me/films/western/48974-taynik-krasnyh-kamney-
 hdrezka.ag###wrapper
 hdrezka.cm###wrapper
 hdrezka.co###wrapper
-hdrezka.me###send-video-issue
-hdrezka.me##.b-player-block-strip
-hdrezka.me##.b-post__wait_status
-hdrezka.me##.b-post__support_holder
-hdrezka.me##.b-post__social_holder
-hdrezka.me##.b-content__main > .b-post__mixedtext
-hdrezka.me##.b-post__lastepisodeout
-hdrezka.me##.b-post__schedule > .b-post__mixedtext
-hdrezka.me##.b-post__status__tracker__download
-hdrezka.me##.b-translators__title
-hdrezka.me##.clearfix.b-post__status_wrapper
-hdrezka.me##.mm.b-sidetitle
-hdrezka.me##div:nth-of-type(6)
 hdrezka.website###wrapper
 rezka-ua.tv###wrapper
 rezka.ag###main
-||hdrezka.me/templates/hdrezka/images/icon-report.png$image
 ||sambray.org^
 
