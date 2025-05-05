@@ -6,7 +6,12 @@ hdrezka.website###wrapper
 rezka-ua.tv###wrapper
 rezka-ua.org###wrapper
 
-
+hdrezka.me##[href="https://hdrezka.me/films/drama/79309-30-sekund-2023.html"]
+hdrezka.me##[href="https://hdrezka.me/films/short/79297-selskiy-vrach-1988.html"]
+hdrezka.me##[href="https://hdrezka.me/films/comedy/79266-zvezdnoe-leto-1978.html"]
+hdrezka.me##[href="https://hdrezka.me/films/drama/79263-rycar-iz-knyazh-gorodka-1978.html"]
+hdrezka.me##[href="https://hdrezka.me/films/comedy/79227-odin-horoshiy-den-2025.html"]
+hdrezka.me##[href="https://hdrezka.me/films/drama/79177-rodnina-2025.html"]
 hdrezka.me##[href="https://hdrezka.me/films/drama/78765-prorok-istoriya-aleksandra-pushkina-2025.html"]
 hdrezka.me##[href="https://hdrezka.me/films/fiction/79201-svobodnoe-padenie-2023.html"]
 hdrezka.me##[href="https://hdrezka.me/films/drama/79190-moy-dom-na-zelenyh-holmah-1985.html"]
