@@ -6,6 +6,27 @@ hdrezka.website###wrapper
 rezka-ua.tv###wrapper
 rezka-ua.org###wrapper
 
+
+hdrezka.me##[href="https://hdrezka.me/films/comedy/79514-bernaki-2023.html"]
+hdrezka.me##[href="https://hdrezka.me/films/melodrama/79513-chasy-dlya-very-2025.html"]
+hdrezka.me##[href="https://hdrezka.me/films/fiction/79512-2007exe-2022.html"]
+hdrezka.me##[href="https://hdrezka.me/films/drama/79511-prosti-menya-anya-2023.html"]
+hdrezka.me##[href="https://hdrezka.me/films/comedy/79510-super-mat-ee-wumen-2023.html"]
+hdrezka.me##[href="https://hdrezka.me/films/drama/79499-pochtar-2025.html"]
+hdrezka.me##[href="https://hdrezka.me/films/fiction/79498-otryad-svetlyachkov-2025.html"]
+hdrezka.me##[href="https://hdrezka.me/films/drama/79486-topor-1945-iyul-2025.html"]
+hdrezka.me##[href="https://hdrezka.me/films/melodrama/79467-ya-vas-dozhdus-1982.html"]
+hdrezka.me##[href="https://hdrezka.me/films/horror/79414-filosofiya-nozha-2008.html"]
+hdrezka.me##[href="https://hdrezka.me/films/adventures/79453-suvorovec-1944-2024.html"]
+hdrezka.me##[href="https://hdrezka.me/films/drama/79439-palma-2-2025.html"]
+hdrezka.me##[href="https://hdrezka.me/films/comedy/79438-u-samogo-chernogo-morya-1975.html"]
+hdrezka.me##[href="https://hdrezka.me/films/drama/79435-sokolovo-1975.html"]
+hdrezka.me##[href="https://hdrezka.me/films/drama/79433-moy-dom-teatr-1975.html"]
+hdrezka.me##[href="https://hdrezka.me/films/theatre/79432-den-radio-2003.html"]
+hdrezka.me##[href="https://hdrezka.me/films/drama/79406-ekaterina-velikaya-2025.html"]
+hdrezka.me##[href="https://hdrezka.me/films/adventures/79386-chernyy-zamok-2024.html"]
+hdrezka.me##[href="https://hdrezka.me/films/comedy/79373-otdohnut-po-lyudski-2025.html"]
+hdrezka.me##[href="https://hdrezka.me/films/drama/79370-na-karandash-2013.html"]
 hdrezka.me##[href="https://hdrezka.me/films/drama/79309-30-sekund-2023.html"]
 hdrezka.me##[href="https://hdrezka.me/films/short/79297-selskiy-vrach-1988.html"]
 hdrezka.me##[href="https://hdrezka.me/films/comedy/79266-zvezdnoe-leto-1978.html"]
