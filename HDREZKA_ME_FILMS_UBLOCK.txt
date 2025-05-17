@@ -6,7 +6,17 @@ hdrezka.website###wrapper
 rezka-ua.tv###wrapper
 rezka-ua.org###wrapper
 
-
+hdrezka.me##[href="https://hdrezka.me/films/adventures/78774-severnyy-polyus-2025.html"]
+hdrezka.me##[href="https://hdrezka.me/films/comedy/79666-batya-2-ded-2025.html"]
+hdrezka.me##[href="https://hdrezka.me/films/drama/79576-nyurnberg-mnogomernost-zla-2023.html"]
+hdrezka.me##[href="https://hdrezka.me/films/drama/79571-bakincy-1938.html"]
+hdrezka.me##[href="https://hdrezka.me/films/drama/79564-valeriy-chkalov-1941.html"]
+hdrezka.me##[href="https://hdrezka.me/films/biographical/79561-ego-doch-2016.html"]
+hdrezka.me##[href="https://hdrezka.me/films/short/79551-otpechatki-2022.html"]
+hdrezka.me##[href="https://hdrezka.me/films/drama/79550-52-gerca-2024.html"]
+hdrezka.me##[href="https://hdrezka.me/films/comedy/79549-a-gde-vasiliy-2024.html"]
+hdrezka.me##[href="https://hdrezka.me/films/drama/79526-front-v-otchem-dome-1984.html"]
+hdrezka.me##[href="https://hdrezka.me/films/drama/79509-smelogo-pulya-boitsya-ili-mishka-prinimaet-boy-1970.html"]
 hdrezka.me##[href="https://hdrezka.me/films/comedy/79514-bernaki-2023.html"]
 hdrezka.me##[href="https://hdrezka.me/films/melodrama/79513-chasy-dlya-very-2025.html"]
 hdrezka.me##[href="https://hdrezka.me/films/fiction/79512-2007exe-2022.html"]
