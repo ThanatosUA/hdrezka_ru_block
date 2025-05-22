@@ -6,6 +6,13 @@ hdrezka.website###wrapper
 rezka-ua.tv###wrapper
 rezka-ua.org###wrapper
 
+hdrezka.me##[href="https://hdrezka.me/films/fantasy/77861-volshebnik-izumrudnogo-goroda-doroga-iz-zheltogo-kirpicha-2025-latest.html"]
+hdrezka.me##[href="https://hdrezka.me/films/comedy/79025-gde-nashi-dengi-2025-latest.html"]
+hdrezka.me##[href="https://hdrezka.me/films/biographical/79713-kirill-i-mefodiy-apostoly-slavyan-2013.html"]
+hdrezka.me##[href="https://hdrezka.me/films/comedy/79778-uplotnenie-1918.html"]
+hdrezka.me##[href="https://hdrezka.me/films/drama/79747-ryadovoy-aleksandr-matrosov-1947.html"]
+hdrezka.me##[href="https://hdrezka.me/films/drama/79702-ukradennoe-schaste-1952.html"]
+hdrezka.me##[href="https://hdrezka.me/films/comedy/79698-mer-ponevole-2025.html"]
 hdrezka.me##[href="https://hdrezka.me/films/adventures/78774-severnyy-polyus-2025.html"]
 hdrezka.me##[href="https://hdrezka.me/films/comedy/79666-batya-2-ded-2025.html"]
 hdrezka.me##[href="https://hdrezka.me/films/drama/79576-nyurnberg-mnogomernost-zla-2023.html"]
