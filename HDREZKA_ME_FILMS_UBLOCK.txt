@@ -6,6 +6,14 @@ hdrezka.website###wrapper
 rezka-ua.tv###wrapper
 rezka-ua.org###wrapper
 
+
+
+
+hdrezka.me##[href="https://hdrezka.me/films/drama/79859-tochka-opory-2024.html"]
+hdrezka.me##[href="https://hdrezka.me/films/action/79846-sluga-gosudarev-rezhisserskaya-versiya-2022.html"]
+hdrezka.me##[href="https://hdrezka.me/films/drama/79839-otday-mne-dengi-i-ya-uydu-2024.html"]
+hdrezka.me##[href="https://hdrezka.me/films/melodrama/79820-muzhu-privet-2025.html"]
+hdrezka.me##[href="https://hdrezka.me/films/horror/79819-shaman-2024.html"]
 hdrezka.me##[href="https://hdrezka.me/films/fantasy/77861-volshebnik-izumrudnogo-goroda-doroga-iz-zheltogo-kirpicha-2025-latest.html"]
 hdrezka.me##[href="https://hdrezka.me/films/comedy/79025-gde-nashi-dengi-2025-latest.html"]
 hdrezka.me##[href="https://hdrezka.me/films/biographical/79713-kirill-i-mefodiy-apostoly-slavyan-2013.html"]
