@@ -1,0 +1,1022 @@
+{
+  "exclusions": [],
+  "filters": [
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "96b187fa-8bc1-45a8-88a1-98311b5b99f4",
+      "reversed": false,
+      "text": "кокіш"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "40a2b732-30ed-47ca-8df5-ba38c3c46d11",
+      "reversed": false,
+      "text": "xcved"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "8e68cd9d-d93c-41f6-a8fa-23f902411c98",
+      "reversed": false,
+      "text": "@xcvedd"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "db2fbcb8-8c31-496a-a720-969dbd5f99b2",
+      "reversed": false,
+      "text": "This Week🔥"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "a485e24c-51f9-421f-8a99-89374b61f063",
+      "reversed": false,
+      "text": "@PromotionXaxaBot"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "2c93ee91-c7f7-4009-8ffe-7058e067c0ef",
+      "reversed": false,
+      "text": "#реклама"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "0a8b6d08-b2f6-4257-90c3-b0ea3a1f506b",
+      "reversed": false,
+      "text": "#промо"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "8f3063c6-f8e8-4ed3-8f1c-8407bda01f91",
+      "reversed": false,
+      "text": "@russia360"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "b9437549-3e8d-40e4-8e12-8fff915b7eb2",
+      "reversed": false,
+      "text": "Мой Якутск"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "f1c4f7e4-252b-486e-83f1-a42be20fac73",
+      "reversed": false,
+      "text": "Инсайдер Crypto"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "ccb1aa87-028c-458c-a80b-6974dfc9bb70",
+      "reversed": false,
+      "text": "Череповец"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "3496498e-5fbb-4f92-aecf-9167f288c851",
+      "reversed": false,
+      "text": "1xBET"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1899052870,
+      "enabled": true,
+      "id": "8a9943c2-96ce-4e11-941c-595d4867ca93",
+      "reversed": false,
+      "text": "РОЗІГРАШ"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1352726486,
+      "enabled": true,
+      "id": "803d20bb-3285-4ecc-a3c4-b25084fc1769",
+      "reversed": false,
+      "text": "Угроза БПЛА в Киеве"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "f299b92f-5302-4355-9e63-f151d9d67eeb",
+      "reversed": false,
+      "text": "бпла"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "0fd23888-27cf-4efc-8374-f6ec931daad5",
+      "reversed": false,
+      "text": "ТРУХА"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "2e8592ac-4420-43f1-bdff-69a9bf7359eb",
+      "reversed": false,
+      "text": "регіональному каналі"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "b2781f3a-b742-494d-b6d7-73ac685c3fb3",
+      "reversed": false,
+      "text": "Репортаж з місця"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "42004c4b-764b-40ca-b04f-7ffacb94fec3",
+      "reversed": false,
+      "text": "#інвестиції"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "4ba7ebe6-d6d3-4537-8155-fdad6600d25e",
+      "reversed": false,
+      "text": "Підписуйся"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "ae9d9a05-cb17-4e1f-8679-e5df540bafce",
+      "reversed": false,
+      "text": "Репортаж із "
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "c761359d-2194-43c9-a612-969d8e8a655c",
+      "reversed": false,
+      "text": "Детальніше про"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "de4ed721-4694-4efc-8054-3601833bd88e",
+      "reversed": false,
+      "text": "Посилання на канал"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "d6815cd1-17dc-46dd-b082-2476d65b7d18",
+      "reversed": false,
+      "text": "джокер"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "3c1f9b93-f48c-435c-b5a6-16f6f0e14ef0",
+      "reversed": false,
+      "text": "Кадри без цензури"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "94b8c47c-ee8c-485a-a767-3c74eefb7a70",
+      "reversed": false,
+      "text": "Детальніше тут"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -2464636717,
+      "enabled": true,
+      "id": "3f2ea051-bd3d-47eb-ac64-359f92cd67af",
+      "reversed": false,
+      "text": "0939432713"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -2464636717,
+      "enabled": true,
+      "id": "6a774b1a-f28c-4074-8db1-3a7727918287",
+      "reversed": false,
+      "text": "штрих-коду"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -2464636717,
+      "enabled": true,
+      "id": "8617ddd1-fc50-419f-82d5-347672f14863",
+      "reversed": false,
+      "text": "ПРОДОВЖЕННЯ АКЦІЙНИХ"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -2464636717,
+      "enabled": true,
+      "id": "bf87c41c-027d-4f9e-9503-d0a29a73bd14",
+      "reversed": false,
+      "text": "МЯСОлюб"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -2464636717,
+      "enabled": true,
+      "id": "6319e00a-6919-4aea-8a19-f84a6876895f",
+      "reversed": false,
+      "text": "М’ЯСОлюб"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "a296fd86-a4a2-471a-befa-6c583e1e48ec",
+      "reversed": false,
+      "text": "Без цензури"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -2464636717,
+      "enabled": true,
+      "id": "6b6f8e84-2fb2-4d08-80e4-9bffca398fdb",
+      "reversed": false,
+      "text": "Відкриті вакансії"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "ec85db55-48d0-4c24-8a43-9c28d6cea008",
+      "reversed": false,
+      "text": "росіяни вдарали"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "aefd32e5-b06e-4e33-8f04-56c335abaa29",
+      "reversed": false,
+      "text": "Масована атака"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1352726486,
+      "enabled": true,
+      "id": "fa7ba553-4359-46ec-bb93-3f3386a5d5b0",
+      "reversed": false,
+      "text": "Кличко"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "7510f258-59cc-414a-9476-ed7a306678f5",
+      "reversed": false,
+      "text": "Дивитись можна тут"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1164416349,
+      "enabled": true,
+      "id": "c90d23fa-a230-40fa-973a-3527c67f98a2",
+      "reversed": false,
+      "text": "Подписаться на"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1108096376,
+      "enabled": true,
+      "id": "460ea965-47fb-445b-8888-fdf9d96a29cc",
+      "reversed": false,
+      "text": "Камчатка"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "d6b79bae-4e30-4a5d-9c07-44dbe432c596",
+      "reversed": false,
+      "text": "Юлия Тимошенко"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1917799292,
+      "enabled": true,
+      "id": "afe853be-b735-448b-a99b-0a15f214d6f1",
+      "reversed": false,
+      "text": "AliExpress"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1352726486,
+      "enabled": true,
+      "id": "74223d1b-700f-4e27-8b8b-cfc5e22b768c",
+      "reversed": false,
+      "text": "Батьківщини"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "acfbcd5d-e529-4bcd-9a6d-618d5aee8e88",
+      "reversed": false,
+      "text": "у Харкові"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "4a93446f-3e49-4b56-b1bb-f0bdba367c5c",
+      "reversed": false,
+      "text": "Перші кадри з місць"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "1205b7f6-41a8-4e5b-bb6c-2e785bfa5cd5",
+      "reversed": false,
+      "text": "MELLSTROY"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "9663cacf-6d95-49b0-8830-7774f55f983f",
+      "reversed": false,
+      "text": "Мелстрой"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1505126110,
+      "enabled": true,
+      "id": "66e4263d-9a07-47a0-9529-294880f10e89",
+      "reversed": false,
+      "text": "Berlin Market"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "c1ac71a2-967b-44f9-b89b-336f8e047cd3",
+      "reversed": false,
+      "text": "Favbet"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1899052870,
+      "enabled": true,
+      "id": "b6fc3e75-50e2-4c82-9926-808495a42e57",
+      "reversed": false,
+      "text": "NFT"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "8e964962-9552-4eb0-83eb-703172d8572b",
+      "reversed": false,
+      "text": "Метинвест Ахметова"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1659763460,
+      "enabled": true,
+      "id": "db42ee8f-f2f6-4593-b4e8-45285c6f073c",
+      "reversed": false,
+      "text": "Картка"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1352726486,
+      "enabled": true,
+      "id": "a2268f09-677f-4684-a59d-8cddb770f815",
+      "reversed": false,
+      "text": "Сталевий фронт"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "150cf1b5-0c85-4ad8-a3e2-3aa67ffb1d24",
+      "reversed": false,
+      "text": "Детальніше за посиланням"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1352726486,
+      "enabled": true,
+      "id": "868f6030-cd60-4fc7-8741-abdfcd61ec85",
+      "reversed": false,
+      "text": "Интерпайп"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1352726486,
+      "enabled": true,
+      "id": "7306410e-11b5-4631-be37-b8d824f6a091",
+      "reversed": false,
+      "text": "Сенкевич"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1352726486,
+      "enabled": true,
+      "id": "b1bad538-927a-4195-9a3f-5a539c90afc6",
+      "reversed": false,
+      "text": "Батькивщины"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "90dfd909-2fbb-467f-b609-a70c065e60e5",
+      "reversed": false,
+      "text": "Монобанка"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "8439b711-6116-436d-aac3-7f361b8f8434",
+      "reversed": false,
+      "text": "http://t.me/PromotionXaxaBot"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "b92f7444-65f3-4189-881e-08f519ae478e",
+      "reversed": false,
+      "text": "Деталі тут"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "0f7b283f-9a1b-4684-b991-deb30eeeffea",
+      "reversed": false,
+      "text": "шахедами"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "5a03585b-c0c6-45f5-a37e-074c208c7ddd",
+      "reversed": false,
+      "text": "шахеди"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "17510ace-7b2f-4962-a765-cc1456456cc0",
+      "reversed": false,
+      "text": "шахед"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "3e5f6e67-712f-47a6-b19c-1af7d3a777f1",
+      "reversed": false,
+      "text": "Кадри з місця"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "bbbdd4f7-0a3d-455a-b333-1d8aba22b937",
+      "reversed": false,
+      "text": "Генерал Черешня"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1214005132,
+      "enabled": true,
+      "id": "8c2f6904-8636-44c0-86da-3082b466764e",
+      "reversed": false,
+      "text": "Словодей"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "34049a1b-e505-4a4f-8084-9dd23c04fba1",
+      "reversed": false,
+      "text": "нічна атака"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "97cf5e8b-9a6b-45cb-a271-45456d7509e1",
+      "reversed": false,
+      "text": "Юлии Тимошенко"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1641260594,
+      "enabled": true,
+      "id": "37f8b39d-2e48-4651-9014-fce364d35986",
+      "reversed": false,
+      "text": "Підтримуйте монітор фінансово"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1352726486,
+      "enabled": true,
+      "id": "0e648a5d-fdde-4e09-9ae3-da199f180864",
+      "reversed": false,
+      "text": "Посилання на банку"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1352726486,
+      "enabled": true,
+      "id": "37c101e1-3fa7-41ad-babd-4ecf8fba0f00",
+      "reversed": false,
+      "text": "Kudo"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1680956281,
+      "enabled": true,
+      "id": "e7f5c7f7-1c0d-4c5f-824b-1d75b94968a4",
+      "reversed": false,
+      "text": "ЙОБЛИК"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1853316017,
+      "enabled": true,
+      "id": "8e2f51b5-ad72-4f02-8039-2c0b9d4bd26d",
+      "reversed": false,
+      "text": "Сірий Кардинал"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1457400144,
+      "enabled": true,
+      "id": "ac340558-fd41-4d37-8253-2f9afcf1dad6",
+      "reversed": false,
+      "text": "Зариповой"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "ec84e975-0fd9-4d3d-a6ba-34b8f40b5585",
+      "reversed": false,
+      "text": "SWEET.TV"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1457400144,
+      "enabled": true,
+      "id": "9ddbfd3e-2a79-45c8-9fd8-cf2bfe17af3f",
+      "reversed": false,
+      "text": "Home Digital School"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1457400144,
+      "enabled": true,
+      "id": "369f7ce8-8417-440b-8a2c-688fc2b07843",
+      "reversed": false,
+      "text": "SBLESKOM"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1754729394,
+      "enabled": true,
+      "id": "1144b4c6-9ebe-438b-bff1-63ab6268ad7e",
+      "reversed": false,
+      "text": "📱"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1505126110,
+      "enabled": true,
+      "id": "34de4624-8033-4feb-8c34-31eb4fa861ea",
+      "reversed": false,
+      "text": "Аварійка САМАР"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "c7575865-0a4d-4648-9cef-6c0656ad15d4",
+      "reversed": false,
+      "text": "Cosmolot"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "d51742f6-624f-499d-a6f1-082cf8e46830",
+      "reversed": false,
+      "text": "Кривий Ріг"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1853316017,
+      "enabled": true,
+      "id": "a318ef43-40cf-42ba-b6eb-7d41d45bc758",
+      "reversed": false,
+      "text": "ДТЕК"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1457400144,
+      "enabled": true,
+      "id": "154f0acb-e3c5-42e9-8bfd-af1bfb4ba829",
+      "reversed": false,
+      "text": "HDS"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "ecbfcd1f-eca1-455c-9c9a-cfe3a628f7e3",
+      "reversed": false,
+      "text": "UKRNAFTA"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "b1bf9977-34b9-4185-b997-c3c1d61d7110",
+      "reversed": false,
+      "text": "Арестович"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1410214711,
+      "enabled": true,
+      "id": "60b7c05e-3920-4c42-99b5-17136cddceca",
+      "reversed": false,
+      "text": "ПУМБ"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1899052870,
+      "enabled": true,
+      "id": "7647e5ea-b9ea-4a98-92e0-7110bd5a8273",
+      "reversed": false,
+      "text": "вихідних"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -2820149620,
+      "enabled": true,
+      "id": "c889011b-f66f-4f84-8837-ecc4d7b55f54",
+      "reversed": false,
+      "text": "5354321083206566"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1853316017,
+      "enabled": true,
+      "id": "0889e17e-027a-48b3-b764-5cf81a95a729",
+      "reversed": false,
+      "text": "🕘"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1853316017,
+      "enabled": true,
+      "id": "34936aec-1ba6-4c50-9b82-8ca71effd2c9",
+      "reversed": false,
+      "text": "Монобанк"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1164416349,
+      "enabled": true,
+      "id": "199f6291-eb93-44e8-8e53-11b52b2c5cc8",
+      "reversed": false,
+      "text": "ХХХ"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1164416349,
+      "enabled": true,
+      "id": "49b01b33-c7b2-404d-8395-05402e774819",
+      "reversed": false,
+      "text": "ставки"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1164416349,
+      "enabled": true,
+      "id": "913c96ea-0661-4d54-aaea-8538fed5948c",
+      "reversed": false,
+      "text": "XXX"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "9968ed02-9d97-4882-b250-0db822aab881",
+      "reversed": false,
+      "text": "Перші наслідки"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1352726486,
+      "enabled": true,
+      "id": "3757788d-e267-4f56-9836-03843a418391",
+      "reversed": false,
+      "text": "Геннадий Корбан"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -2820149620,
+      "enabled": true,
+      "id": "201b7f82-50eb-456e-824b-56687d093f8b",
+      "reversed": false,
+      "text": "ВСЕ СРОЧНО В ТЦК"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -2820149620,
+      "enabled": true,
+      "id": "11251dbc-a2b9-4caa-a3bc-805510e43367",
+      "reversed": false,
+      "text": "ТЕПЕРЬ НА КАРАНДАШЕ У СБУ"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -2820149620,
+      "enabled": true,
+      "id": "fbf9d388-3bb3-4ae7-924f-d96b21fc4d00",
+      "reversed": false,
+      "text": "ТЕПЕРЬ НА КАРАНДАЖЕ У СБУ"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -2820149620,
+      "enabled": true,
+      "id": "ac478375-5fd4-4f1a-b788-e6cc7f98ad50",
+      "reversed": false,
+      "text": "ЛИХО ВАС РАЗВЕЛИ НА ТО ЧТОБ ВЫ СЮДА"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -2820149620,
+      "enabled": true,
+      "id": "0a9a9627-fd9a-471d-a1f2-b7cfb800660c",
+      "reversed": false,
+      "text": "ЗДАРОВА ХУЕСОСЫ УХЫЛЯНТЫ"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1754729394,
+      "enabled": true,
+      "id": "6bc89b7a-1432-46f8-a032-10dd657908c2",
+      "reversed": false,
+      "text": "ArtStation"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1853316017,
+      "enabled": true,
+      "id": "38736bd5-f3bd-46d6-9317-a8a70b52b6e7",
+      "reversed": false,
+      "text": "4874100029282053"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1220606936,
+      "enabled": true,
+      "id": "a346cf22-5fc8-4e44-8ae4-3371388dd18c",
+      "reversed": false,
+      "text": "русоріз"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1164416349,
+      "enabled": true,
+      "id": "359178b0-2bdb-4915-8b97-c13cb5d068de",
+      "reversed": false,
+      "text": "Видов писек"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1505126110,
+      "enabled": true,
+      "id": "7521eed6-8c21-4c68-8869-7594047f2869",
+      "reversed": false,
+      "text": "‼️📣ПОВІТРЯНА ТРИВОГА📣‼️"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1708710276,
+      "enabled": true,
+      "id": "891547e6-835b-4cc4-a5c5-558e5d401353",
+      "reversed": false,
+      "text": "Актуальна інформація"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1505126110,
+      "enabled": true,
+      "id": "b256c846-e0fd-4947-8148-09e84fdd2f3f",
+      "reversed": false,
+      "text": "🟢ВІДБІЙ ТРИВОГИ🟢"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1220606936,
+      "enabled": true,
+      "id": "77e92ea2-4bff-4f91-9177-5ef11dedd08b",
+      "reversed": false,
+      "text": "5168752135776451"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1164416349,
+      "enabled": true,
+      "id": "8b6b2ff0-09db-4c9a-a100-b77ef2526b57",
+      "reversed": false,
+      "text": "кухонных ножей"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1164416349,
+      "enabled": true,
+      "id": "654b559d-8c4f-4cae-81c2-a3a54257cfed",
+      "reversed": false,
+      "text": "промокод"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1290300939,
+      "enabled": true,
+      "id": "e827e613-1c0e-4721-a700-f6a9565189fe",
+      "reversed": false,
+      "text": "5168755907612929"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1149277960,
+      "enabled": true,
+      "id": "1d4090ca-d519-41fd-9f70-a05be227b332",
+      "reversed": false,
+      "text": "Загальні бойові #втрати"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1164416349,
+      "enabled": true,
+      "id": "d4eb96f9-1870-4aef-98a4-1669574d981e",
+      "reversed": false,
+      "text": "казино"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1149277960,
+      "enabled": true,
+      "id": "6d7c73d8-27a2-4e3b-8431-4c69284a9117",
+      "reversed": false,
+      "text": "5375411217472054"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1680956281,
+      "enabled": true,
+      "id": "64a20901-4ccc-4ee2-868b-d14d11a76e0a",
+      "reversed": false,
+      "text": "Добовий звіт"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1505126110,
+      "enabled": true,
+      "id": "d2913a64-52fc-4dac-81b1-c51dbe8b99aa",
+      "reversed": false,
+      "text": "Таксі 4.5.0"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1853316017,
+      "enabled": true,
+      "id": "27ded0f5-1ecc-409a-b279-dfd1f82fc559",
+      "reversed": false,
+      "text": "РАСПРОДАЖА"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1853316017,
+      "enabled": true,
+      "id": "fa947438-9f4d-4a79-95a0-50ab51ae01eb",
+      "reversed": false,
+      "text": "Заработная плата"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1853316017,
+      "enabled": true,
+      "id": "8eb6aa52-a88d-411e-a79a-3aee7a2b374e",
+      "reversed": false,
+      "text": "Вакансия"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1853316017,
+      "enabled": true,
+      "id": "4cba8616-8d49-4ce6-a5b0-d3f6e04cf094",
+      "reversed": false,
+      "text": "Робота"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1853316017,
+      "enabled": true,
+      "id": "79040f36-311c-4b7d-8724-61891fa98af0",
+      "reversed": false,
+      "text": "график на завтра"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1169049438,
+      "enabled": true,
+      "id": "022fd985-a79b-4b5a-adf5-7287e555dcc3",
+      "reversed": false,
+      "text": "липсиц"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1118210648,
+      "enabled": true,
+      "id": "649ab1e7-2fa2-427e-8e9d-a8b5167cfe21",
+      "reversed": false,
+      "text": "Розіграш"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1149277960,
+      "enabled": true,
+      "id": "e5fda7f2-abf8-4176-866b-5ec8bd01cf3e",
+      "reversed": false,
+      "text": "#изменения на карте"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": -1853316017,
+      "enabled": true,
+      "id": "4489077e-4019-4bb8-84fa-3c868aff7ea0",
+      "reversed": false,
+      "text": "4874100024320460"
+    }
+  ],
+  "peers": {
+    "-1641260594": "@war_monitor",
+    "-1290300939": "@oko_gora",
+    "-1754729394": "@stalker_game_ua",
+    "-1853316017": "@Dnepr_ppo",
+    "-1149277960": "@ShrikeNews",
+    "-1680956281": "@robert_magyar",
+    "-2464636717": "@miasolubsychkova",
+    "-1505126110": "@nashemisto_now",
+    "-2820149620": "@chatsamr",
+    "-1659763460": "@sirena_dp",
+    "-1457400144": "@chickencurryshow",
+    "-1118210648": "@XGTV1",
+    "-1169049438": "@ToBeOr_Official",
+    "-1899052870": "@kiber_karas",
+    "-1352726486": "@insiderUKR",
+    "-1214005132": "@calendarday",
+    "-1220606936": "@ssternenko",
+    "-1410214711": "@bromeeems",
+    "-1708710276": "@truexaxaua",
+    "-1108096376": "@fuckingenglish"
+  },
+  "removeExclusions": null,
+  "removeFiltersById": null,
+  "version": 2
+}
