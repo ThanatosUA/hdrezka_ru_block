@@ -1,1 +1,2 @@
-123
+m.youtube.com##ytm-rich-section-renderer
+m.youtube.com##.rich-grid-sticky-header.rich-grid-renderer-header
