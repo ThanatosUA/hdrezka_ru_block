@@ -1,2 +1,3 @@
 m.youtube.com##ytm-rich-section-renderer
 m.youtube.com##.rich-grid-sticky-header.rich-grid-renderer-header
+m.youtube.com##.mobile-topbar-header-sign-in-button
